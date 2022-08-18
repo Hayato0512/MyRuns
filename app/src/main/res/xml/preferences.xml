@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceCategory
+        android:title="Account Preferences"
+        >
+
+        <Preference
+            android:title="Name, Email, Class, etc"
+            android:summary="User Profile"
+            android:key ="edit_pref1"
+
+            />
+<!--        <TextView-->
+<!--            android:width = "wrap_content"-->
+<!--            android:height = "wrap_content"-->
+<!--            android:text  = "Hayato"/>-->
+
+        <CheckBoxPreference
+            android:key = "privacy_setting"
+            android:title = "Privacy Setting"
+            android:summary="Posting your records anonymously"/>
+
+    </PreferenceCategory>
+
+    <PreferenceCategory
+        android:title="Additional Settings"
+        >
+        <ListPreference
+            android:title="Unit Preference"
+            android:summary="Select the units"
+            android:entries="@array/unitPreference"
+            android:entryValues="@array/unitPreference2"
+            android:key ="edit_pref2"/>
+
+        <EditTextPreference
+            android:title="Comments"
+            android:summary="Please enter your comments"
+            android:key="comment_pref"/>
+
+    </PreferenceCategory>
+
+    <PreferenceCategory
+        android:title="Misc."
+        >
+
+        <Preference
+            android:title="WebPage"
+            android:summary="https://www.sfu.ca/computing.html"
+            android:key ="webpagePref"/>
+
+
+    </PreferenceCategory>
+</PreferenceScreen>

@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">MyRuns2</string>
+    <string name="ui_collector_radio_standing_title">Standing</string>
+    <string name="ui_collector_radio_walking_title">Walking</string>
+    <string name="ui_collector_radio_running_title">Running</string>
+    <string name="ui_collector_radio_other_title">Others</string>
+    <string name="ui_collector_button_start_title">Start collecting</string>
+    <string name="ui_collector_button_stop_title">Stop collecting</string>
+    <string name="ui_collector_button_delete_title">Delete Data</string>
+    <string name="ui_collector_toast_file_deleted">All files deleted.</string>
+    <string name="ui_sensor_service_notification_ticker">Collector started recording.</string>
+    <string name="ui_sensor_service_notification_title">MyRuns Collector</string>
+    <string name="ui_sensor_service_notification_content">Recording your activity data now</string>
+    <string name="ui_sensor_service_toast_success_file_updated">Data file updated.</string>
+    <string name="ui_sensor_service_toast_success_file_created">Data file created.</string>
+    <string name="ui_sensor_service_toast_error_file_saving_failed">Failed saving the file. Check your storage.</string>
+
+    <string-array name="entriesNUMNUMS">
+        <item>Manual Entry</item>
+        <item>GPS</item>
+        <item>Automatic</item>
+
+    </string-array>
+    <string-array name="unitPreference">
+        <item>Metric (Kilometers)</item>
+        <item>Imperial (Miles)</item>
+
+    </string-array>
+    <string-array name="unitPreference2">
+        <item>0</item>
+        <item>1</item>
+
+    </string-array>
+    <string-array name="entriesNUMNUMS2">
+        <item>Running</item>
+        <item>Walking</item>
+        <item>Standing</item>
+        <item>Cycling</item>
+        <item>Hiking</item>
+        <item>Downhill Skiing</item>
+        <item>Cross-Country Skiing</item>
+        <item>Snowboarding</item>
+        <item>Skating</item>
+        <item>Swimming</item>
+        <item>Mountain Biking</item>
+        <item>Wheelchair</item>
+        <item>Eliptical</item>
+        <item>Other</item>
+
+    </string-array>
+</resources>

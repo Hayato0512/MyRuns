@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    >
+
+    <fragment
+        xmlns:map="http://schemas.android.com/apk/res-auto"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:id="@+id/mapGps"
+        android:name="com.google.android.gms.maps.SupportMapFragment"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:context=".gpsActivity" />
+
+    <LinearLayout
+
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        >
+        <TextView
+            android:id="@+id/detailGpsText"
+            android:textSize="18dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="running log spec comes here " />
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight = "2"
+        android:layout_gravity="bottom" >
+        <Button
+            android:id="@+id/detailHistoryDeleteButton"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight = "2"
+            android:onClick="deleteButtonClicked"
+            android:text="DELETE"
+            />
+    </LinearLayout>
+
+</FrameLayout>
+
+
+    <!--<?xml version="1.0" encoding="utf-8"?>-->
+    <!--<RelativeLayout-->
+    <!--    xmlns:android="http://schemas.android.com/apk/res/android"-->
+    <!--    xmlns:tools="http://schemas.android.com/tools"-->
+    <!--    android:layout_width="match_parent"-->
+    <!--    android:layout_height="match_parent">-->
+
+    <!--    <LinearLayout-->
+    <!--        android:layout_width="match_parent"-->
+    <!--        android:layout_height="wrap_content"-->
+    <!--        android:weightSum="2"-->
+    <!--        android:layout_alignParentBottom="true"-->
+    <!--        >-->
+
+    <!--        <Button-->
+    <!--            android:id="@+id/cancelButtonGps"-->
+    <!--            android:layout_width="0dp"-->
+    <!--            android:layout_height="wrap_content"-->
+    <!--            android:layout_weight="1"-->
+    <!--            android:text="Cancel"-->
+    <!--            tools:layout_editor_absoluteX="191dp"-->
+    <!--            tools:layout_editor_absoluteY="499dp" />-->
+
+    <!--        <Button-->
+    <!--            android:id="@+id/saveButtonGps"-->
+    <!--            android:layout_width="0dp"-->
+    <!--            android:layout_height="wrap_content"-->
+    <!--            android:layout_weight="1"-->
+    <!--            android:text="SAVE"-->
+    <!--            tools:layout_editor_absoluteX="16dp"-->
+    <!--            tools:layout_editor_absoluteY="387dp" />-->
+    <!--    </LinearLayout>-->
+
+
+    <!--</RelativeLayout>-->
+
+
+
+
