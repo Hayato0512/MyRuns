@@ -1,4 +1,4 @@
-s# MyRuns
+# MyRuns
 > Fitness tracking application with a simple machine learning feature
 
 
