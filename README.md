@@ -24,7 +24,6 @@
 -the purpose of this android application is to let users keep track of their exercise while they are doing it. it also allows users to see the past exercise history so that they can keep track of their amount of exercise and stay motivated if they want to.
 
 ## Features
-List the ready features here:
 - shows real time activity tracking on Google Map
 - detects your exercise type automatically by reading sensors of your phone. (Weka machine learning feature)
 - let you see the history of your exercises
