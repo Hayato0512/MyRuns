@@ -1,11 +1,11 @@
-# MyRuns
+s# MyRuns
 > Fitness tracking application with a simple machine learning feature
 
 
 ## Table of Contents
 * [General Info](#general-information)
-* [Technologies Used](#technologies-used)
 * [Features](#features)
+* [Technologies Used](#technologies-used)
 * [Screenshots](#screenshots)
 * [Usage](#usage)
 * [Project Status](#project-status)
@@ -14,14 +14,20 @@
 * [Contact](#contact)
 <!-- * [License](#license) -->
 
-
+<!--  what is it? for what ? and how??  -->
 ## General Information
 - Provide general information about your project here.
--It allows you to capture your runs and walks and view the stats on Google Maps. It uses sensors (viz. GPS, accelerometers) in the phone to infer your activity (e.g., running) in an automatic manner.
+this is an app that help users achieve thier fitness goals and habits.
+-It allows you to capture your exercise records, and view the statistics on Google Maps. It uses sensors (viz. GPS, accelerometers) in the phone to infer your activity (e.g., running) in an automatic manner.
 
 - What is the purpose of your project?
 -the purpose of this android application is to let users keep track of their exercise while they are doing it. it also allows users to see the past exercise history so that they can keep track of their amount of exercise and stay motivated if they want to.
 
+## Features
+List the ready features here:
+- shows real time activity tracking on Google Map
+- detects your exercise type automatically by reading sensors of your phone. (Weka machine learning feature)
+- let you see the history of your exercises
 
 
 ## Technologies Used
@@ -30,11 +36,7 @@
 - android Room - version 3.0
 
 
-## Features
-List the ready features here:
-- shows real time activity tracking on Google Map
-- detects your exercise type automatically by reading sensors of your phone. (Weka machine learning feature)
-- let you see the history of your exercises
+
 
 
 ## Screenshots
@@ -51,7 +53,6 @@ Project is: _in progress_
 
 
 ## Room for Improvement
-Include areas you believe need improvement / could be improved. Also add TODOs for future development.
 
 Room for improvement:
 - show exercise histories in a chart to let user see their fitness routine more easily
