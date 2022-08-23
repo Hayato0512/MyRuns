@@ -40,7 +40,10 @@ List the ready features here:
 
 
 ## Screenshots
-![Example screenshot](./img/screenshot.png)
+![Example screenshot1](./images/MRS1.png)
+![Example screenshot1](./images/MRS2.png)
+![Example screenshot1](./images/MRS3.png)
+![Example screenshot1](./images/MRS4.png)
 <!-- If you have screenshots you'd like to share, include them here. -->
 
 
