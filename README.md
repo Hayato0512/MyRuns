@@ -40,9 +40,17 @@ List the ready features here:
 
 
 ## Screenshots
+
+ACTIVITY PAGE
 ![Example screenshot1](./images/MRS1.png)
+
+HISTORY PAGE
 ![Example screenshot1](./images/MRS2.png)
+
+DETAIL HISTORY PAGE
 ![Example screenshot1](./images/MRS3.png)
+
+SETTING PAGE
 ![Example screenshot1](./images/MRS4.png)
 <!-- If you have screenshots you'd like to share, include them here. -->
 
