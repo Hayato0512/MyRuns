@@ -70,7 +70,7 @@ Room for improvement:
 
 
 ## Acknowledgements
-Give credit here.
+
 - This project was inspired by...
 - This project was a part of the assignments from CMPT362(Android Mobile Applications Programming and Design) in Simon Fraser University, BC, Canada 
 - Many thanks to... the professor XingDong Yang at SFU
