@@ -16,8 +16,8 @@
 
 <!--  what is it? for what ? and how??  -->
 ## General Information
-- Provide general information about your project here.
-this is an app that help users achieve thier fitness goals and habits.
+
+- this is an app that help users achieve thier fitness goals and habits.
 -It allows you to capture your exercise records, and view the statistics on Google Maps. It uses sensors (viz. GPS, accelerometers) in the phone to infer your activity (e.g., running) in an automatic manner.
 
 - What is the purpose of your project?
