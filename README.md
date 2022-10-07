@@ -21,12 +21,12 @@
 -It allows you to capture your exercise records, and view the statistics on Google Maps. It uses sensors (viz. GPS, accelerometers) in the phone to infer your activity (e.g., running) in an automatic manner.
 
 - What is the purpose of your project?
--the purpose of this android application is to let users keep track of their exercise while they are doing it. it also allows users to see the past exercise history so that they can keep track of their amount of exercise and stay motivated if they want to.
+-The purpose of this android application is to let users keep track of their exercise while they are doing it. it also allows users to see the past exercise history so that they can keep track of their amount of exercise and stay motivated if they want to.
 
 ## Features
-- shows real time activity tracking on Google Map
-- detects your exercise type automatically by reading sensors of your phone. (Weka machine learning feature)
-- let you see the history of your exercises
+- Shows real time activity tracking on Google Map
+- Detects your exercise type automatically by reading sensors of your phone. (Weka machine learning feature)
+- Let you see the history of your exercises
 
 
 ## Technologies Used
