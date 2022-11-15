@@ -67,6 +67,7 @@ Project is: _in progress_
 Room for improvement:
 - show exercise histories in a chart to let user see their fitness routine more easily
 - use multi-thread design to make UI smoother.
+- I want to implement MVVM design pattern with clean architecture with this app to make it scalable.
 
 
 ## Acknowledgements
